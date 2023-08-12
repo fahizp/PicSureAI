@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 * {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Space-Grotesk', sans-serif;
 }
 
 @media screen and (min-width: 480px) {
@@ -21,3 +21,11 @@
   background-color: #666e75;
   border-radius: 5px;
 }
+.showcase{
+  background-image: linear-gradient(to right bottom, #33b89f, #33b89f, #33b89f, #33b89f, #33b89f, #0db4ad, #00afb8, #00a9c0, #009ad8, #0087f0, #006cfb, #3f3eed);
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+
