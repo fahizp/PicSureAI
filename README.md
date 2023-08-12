@@ -2,7 +2,7 @@
 
 ![Project Banner](/client/src/assets/Screenshot%202023-08-12%20at%203.25.40%20PM.png)
 
-Welcome to the AI Image Generation project repository! This repository houses a MERN (MongoDB, Express.js, React, Node.js) stack application that leverages the power of the OpenAI API to generate AI images. The project also utilizes Tailwind CSS for streamlined and responsive user interface design. Additionally, you can enjoy the convenience of Markdown language support within a single code editor.
+Welcome to the AI Image Generation project repository! This repository houses a MERN (MongoDB, Express.js, React, Node.js) stack application that leverages the power of the OpenAI API to generate AI images. The project also utilizes Tailwind CSS for streamlined and responsive user interface design. 
 
 ## Table of Contents
 
@@ -19,13 +19,11 @@ Welcome to the AI Image Generation project repository! This repository houses a 
 
 ## Introduction
 
-This project aims to showcase the seamless integration of the MERN stack with the OpenAI API to generate stunning AI images. The project's user interface is designed using Tailwind CSS, providing an efficient and visually appealing experience. Additionally, the codebase supports Markdown language for easy documentation and code editing.
-
+This project aims to showcase the seamless integration of the MERN stack with the OpenAI API to generate stunning AI images. The project's user interface is designed using Tailwind CSS, providing an efficient and visually appealing experience.
 ## Features
 
 - AI image generation using OpenAI API.
 - User-friendly web interface built with React and Tailwind CSS.
-- Markdown language support for documentation and code editing.
 
 ## Technologies
 
