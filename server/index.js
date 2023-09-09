@@ -8,7 +8,7 @@ dotenv.config();
 
 const app = express();
 app.use(cors({
-    origin:["https://pic-sure-ai.vercel.app/"],
+    origin:["https://picsureai.fahiz.in"],
     methods:["POST", "GET" ],
     credentials:true,
 }));
