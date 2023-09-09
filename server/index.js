@@ -8,7 +8,7 @@ dotenv.config();
 
 const app = express();
 app.use(cors({
-    origin:["https://localhost:8080"],
+    origin:["https://pic-sure-ai.vercel.app/"],
     methods:["POST", "GET" ],
     credentials:true,
 }));
